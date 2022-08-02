@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy%22%3E<img src="https://github-profile-trophy.vercel.app/?username=andresparra0811" alt="andresparra0811" /></a> </p>
 
+-  I’m currently studying Systems Engineering at U Ean 👨‍💻
+
 - 🌱 I’m currently learning databases 💾 and networking 🌐
 
 <h3 align="left">Connect with me:</h3>
