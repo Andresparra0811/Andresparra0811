@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my major project**
 
-- 🌱 I’m currently learning **Cibersecurity**
+- 🌱 I’m currently learning **Machine Learning and Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Andresparra0811](https://github.com/Andresparra0811)
 
