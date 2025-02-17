@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andres Parra</h1>
-<h3 align="center">A passionate student of Systems Engineering. I want to be a software developer</h3>
+<h3 align="center"> Systems Engineer. I want to be a software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andresparra0811&label=Profile%20views&color=0e75b6&style=flat" alt="andresparra0811" /> </p>
 
-- 🔭 I’m currently working on **my major project**
+- 🔭 I’m currently working on **Front end development and Data analysis**
 
 - 🌱 I’m currently learning **Machine Learning and Data Engineering**
 
